@@ -2,9 +2,13 @@
     text-decoration: none;
 }
 
+.map-style {
+    height: 100%;
+}
+
 @media (min-width: 544px) {
     body {
-        font-size: 20px;
+        font-size: 24px;
     }
 
     .panel-title {
